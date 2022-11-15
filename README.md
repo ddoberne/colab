@@ -1,2 +1,2 @@
 # colab
-Learning materials for Python and Google Colab.
+Open source, free-to-use learning materials for Python and Google Colab.
