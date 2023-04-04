@@ -39,3 +39,5 @@ Colab also provides an option to link with a GitHub account to save notebooks in
 
 ## In progress
 As time goes on, I plan on updating the practice folder with additional problems for students to practice what they have learned so far. Additionally, I will link LeetCode problems that students may attempt once they have progressed through to a certain point.
+
+Have fun!
