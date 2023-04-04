@@ -1,15 +1,4 @@
-# Welcome!
-This repo contains an open source, free-to-use course for Python and Google Colab. The materials are targeted toward kids age 10 and up, but I've certainly worked with students younger than 10 who would have no trouble with the material. The course covers variables, functions, boolean operators, lists, loops, dictionaries, and objects -- all the basic building blocks to tackle basic problems and get creative. The goal isn't to make little engineers, but rather, to help kids think through things logically and have some basic code literacy.
-
-In my years of teaching, I've often found that students respond best when they can relate what they are learning to familiar media. That's why you'll see examples from Pokemon, Genshin Impact, and Marvel in the lessons. Of course, I plan on updating this as the zeitgeist of today's youth shifts.
-
-## Why Colab?
-
-When I first learned Java over a decade ago, the biggest hurdle had nothing to do with programming concepts or syntax, but rather, setting up my IDE to run properly. Just as Google Docs streamlined cross-platform use and collaboration with word processors, Colaboratory makes it simple to write, run, import, and share python notebooks. No downloads, no command line, no directories, no repositories; just code.
-
-Colab also provides an option to link with a GitHub account to save notebooks in a repository. While setting up a GitHub is not a core goal of this course, for those planning on continuing with programming, this is a nice option.
-
-# Lesson links
+## Lesson links
 * [01 Hello World!](https://github.com/ddoberne/colab/blob/main/lessons/01_Hello_World!.ipynb)
 * [02 Arithmetic](https://github.com/ddoberne/colab/blob/main/lessons/02_Arithmetic.ipynb)
 * [03 Arithmetic with Variables](https://github.com/ddoberne/colab/blob/main/lessons/03_Arithmetic_with_Variables.ipynb)
@@ -33,7 +22,20 @@ Colab also provides an option to link with a GitHub account to save notebooks in
 * [21 Libraries](https://github.com/ddoberne/colab/blob/main/lessons/21_Libraries.ipynb)
 * [22 Recursion](https://github.com/ddoberne/colab/blob/main/lessons/22_Recursion.ipynb)
 
+
+## Welcome!
+This repo contains an open source, free-to-use course for Python and Google Colab. The materials are targeted toward kids age 10 and up, but I've certainly worked with students younger than 10 who would have no trouble with the material. The course covers variables, functions, boolean operators, lists, loops, dictionaries, and objects -- all the basic building blocks to tackle basic problems and get creative. The goal isn't to make little engineers, but rather, to help kids think through things logically and have some basic code literacy.
+
+In my years of teaching, I've often found that students respond best when they can relate what they are learning to familiar media. That's why you'll see examples from Pokemon, Genshin Impact, and Marvel in the lessons. Of course, I plan on updating this as the zeitgeist of today's youth shifts.
+
 Note that while it may be possible to read through each notebook in the span of a month (or less), it is not advised to speed through this course! Programming is a skill that benefits more from fluency and familiarity than complex knowledge. As a student goes through this course, they should practice each skill until they are comfortable with it before moving on, as the later skills require fluency in earlier skills to make sense.
 
-# In progress
+## Why Colab?
+
+When I first learned Java over a decade ago, the biggest hurdle had nothing to do with programming concepts or syntax, but rather, setting up my IDE to run properly. Just as Google Docs streamlined cross-platform use and collaboration with word processors, Colaboratory makes it simple to write, run, import, and share python notebooks. No downloads, no command line, no directories, no repositories; just code.
+
+Colab also provides an option to link with a GitHub account to save notebooks in a repository. While setting up a GitHub is not a core goal of this course, for those planning on continuing with programming, this is a nice option.
+
+
+## In progress
 As time goes on, I plan on updating the practice folder with additional problems for students to practice what they have learned so far. Additionally, I will link LeetCode problems that students may attempt once they have progressed through to a certain point.
